@@ -10,17 +10,9 @@ document.onmousemove = (event) => {
   }
 };
 
-// let teeth = URL("./teeth.png");
-// function x() {
-//   setTimeout(() => {
-//     document.InerHTML.(teeth);
-//   }, 2000);
-// }
-// x();
-
 var img = new Image();
 var div = document.getElementById("smile");
-img.src = "../assets/img/portfolioNew/teeth.png";
+img.src = "./teeth.png";
 
 function x() {
   div.appendChild(img);
@@ -28,4 +20,4 @@ function x() {
 
 setTimeout(() => {
   x();
-}, 2500);
+}, 3500);
