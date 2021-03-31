@@ -3,7 +3,7 @@
 The eyes will follow the mouse pointer as you move it.
 Try it!
 
-<img src="https://media.giphy.com/media/6ZmbuyZinSwg4qyUAO/giphy.gif">
+<img src="https://media.giphy.com/media/pKu07HBysio9xB2V2z/giphy.gif">
 
 ## Installation
 
